@@ -12,7 +12,7 @@
 
 ## 🎓 Formação & Experiência
 
-- 🏫 **Técnico em Análise e Desenvolvimento de Sistemas — COTUCA (2023–2024)**  
+- 💻 **Técnico em Análise e Desenvolvimento de Sistemas — COTUCA (2023–2024)**  
   Formação técnica voltada para desenvolvimento de aplicações, resolução de problemas computacionais, modelagem de bancos de dados e fundamentos de infraestrutura e redes.
 
 <br>
