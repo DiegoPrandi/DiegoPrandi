@@ -36,7 +36,7 @@ const desenvolvedor = {
     tecnico: "Técnico em ADS — COTUCA",
     graduacao: "Engenharia de Software — PUC-Campinas"
   },
-  foco: ["Front-End", "Web Development", "Linux"],
+  foco: ["Front-End", "Desenvolvimento Web", "Linux"],
 
   linguagens: ["Java", "JavaScript", "Python", "Kotlin", "SQL"],
   frameworks: ["Spring Boot", "Node.js", "React", "Next.js"],
